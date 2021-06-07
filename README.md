@@ -6,7 +6,7 @@
 
 <b>(1) Draw a circle</b>
 
-<div style="width:50px;height:50px;border-radius:50%;border:1px solid pink;background-color: red;"></div>
+<div style="width:50px;height:50px;border-radius:50%;border:1px solid pink;background-color:red;"></div>
 
 
 <details><summary><b>Answer</b></summary>
