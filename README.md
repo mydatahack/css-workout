@@ -4,10 +4,14 @@
 
 </div>
 
-<b>Test</b>
+<b>(1) Draw a circle</b>
 
-<div class="circle"></div>
-<style>
+<div style="width:50px;height:50px;border-radius:50%;border:1px solid pink;background-color: red;"></div>
+
+
+<details><summary><b>Answer</b></summary>
+
+```css
 .circle {
   width: 50px;
   height: 50px;
@@ -15,5 +19,5 @@
   border: 1px solid pink;
   background-color: red;
 }
-</style>
-<details><summary><b>Answer</b></summary></details>
+```
+</details>
